@@ -1,1 +1,1 @@
-# jjdzr3-kulturalni-web
+Kulturalni - Wyszukiwarka wydarzeń
